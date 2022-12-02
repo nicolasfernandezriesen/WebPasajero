@@ -1,0 +1,42 @@
+﻿*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+#menu{
+    height: 100%;
+    width: 20%;
+    float: left;
+}
+
+#container{
+    position:absolute;
+    height: 100%;
+    width: 80%;
+    margin-left:20%;
+}
+
+#header{
+    position:relative;
+    height:70px;
+    width: auto;
+}
+
+#containerMain{
+    position:relative;
+    width:100%;
+}
+
+#content{
+    height:100%;
+    width:75%;
+    float:left
+}
+
+#sideBar{
+    height:100%;
+    width:25%;
+    float:right;
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPasajero", "WebPasajero\WebPasajero.csproj", "{9E115BE2-099C-4367-A35D-4CE2431B1BAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E115BE2-099C-4367-A35D-4CE2431B1BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E115BE2-099C-4367-A35D-4CE2431B1BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E115BE2-099C-4367-A35D-4CE2431B1BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E115BE2-099C-4367-A35D-4CE2431B1BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA82D5C7-84B7-49DF-8495-0E8F7FE76D3F}
+	EndGlobalSection
+EndGlobal
